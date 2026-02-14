@@ -1,0 +1,11 @@
+# PowerPoint & Word temp files
+~$*.doc*
+~$*.ppt*
+
+# PowerShell Transcripts
+*.log
+*.transcript
+
+# OS System Files
+Thumbs.db
+.DS_Store
